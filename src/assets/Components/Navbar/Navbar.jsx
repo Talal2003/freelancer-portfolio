@@ -1,5 +1,5 @@
 function Navbar() {
-    return <nav className="navbar navbar-expand-lg bg__secondary">
+    return <nav className="navbar navbar-expand-lg bg__secondary sticky-top">
     <div className="container p-2">
         <a className="navbar-brand fw-bold text-light text-uppercase fs-2" href="#">Start Bootstrap</a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
