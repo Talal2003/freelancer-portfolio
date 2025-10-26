@@ -1,3 +1,7 @@
 .portfolioIcon {
-    width: 130px;
+    width: 250px;
+}
+
+.title {
+  font-size: 4rem;
 }

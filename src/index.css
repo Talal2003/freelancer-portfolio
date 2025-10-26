@@ -18,3 +18,7 @@
 .bg__secondary {
   background-color: var(--secondaryColor);
 }
+
+.section-title {
+  font-size: 3rem;
+}
